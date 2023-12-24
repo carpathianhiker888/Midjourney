@@ -1,5 +1,3 @@
-<a href="https://learngpt.art"><img src="https://rel.codes/banner/002.png" width="880"></a>
-
 ## OVERVIEW
 
 This application is an open-source iOS concept, designed to showcase Midjourney images through an interface inspired by Pinterest.
